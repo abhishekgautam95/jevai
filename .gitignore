@@ -1,0 +1,13 @@
+# Local configuration and credentials
+.env
+
+# Python environments and generated files
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Editor and operating-system metadata
+.DS_Store
+.idea/
+.vscode/
